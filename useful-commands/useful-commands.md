@@ -1,4 +1,4 @@
-# useful commands
+# 💢 useful commands
 
 ## Here's a list of useful commands. They're not available in all servers.
 

@@ -4,7 +4,7 @@ description: >-
   each servers if you can get whitelisted.
 ---
 
-# Whitelist Servers List
+# 📋 Whitelist Servers List
 
 | \[Australis] - EU \| BHOP TIMER WL          | whitelist.australis-bhop.net:27015 | Germany                      | Yes                         | [https://discord.gg/8WjfXPye8q](https://discord.gg/8WjfXPye8q)    | seenkid                    |
 | ------------------------------------------- | ---------------------------------- | ---------------------------- | --------------------------- | ----------------------------------------------------------------- | -------------------------- |

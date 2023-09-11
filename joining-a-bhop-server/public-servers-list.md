@@ -4,7 +4,7 @@ description: >-
   be able to access all of them.
 ---
 
-# Public Servers List
+# 📋 Public Servers List
 
 | \[AU] SPACEBAR WARRIORS \[bhop.rip/discord]                           | bhop.rip:27015                  | Australia                     | Yes | [https://bhop.rip/discord](http://bhop.rip/discord)               | merzbau           |
 | --------------------------------------------------------------------- | ------------------------------- | ----------------------------- | --- | ----------------------------------------------------------------- | ----------------- |

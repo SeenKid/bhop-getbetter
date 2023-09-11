@@ -14,6 +14,7 @@
 * [🎄 How to join a bhop server](joining-a-bhop-server/how-to-join-a-bhop-server.md)
 * [📋 Public Servers List](joining-a-bhop-server/public-servers-list.md)
 * [📋 Whitelist Servers List](joining-a-bhop-server/whitelist-servers-list.md)
+* [🦜 Reduce lags on bhop servers](joining-a-bhop-server/reduce-lags-on-bhop-servers.md)
 
 ## Useful commands
 

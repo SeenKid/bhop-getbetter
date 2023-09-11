@@ -1,4 +1,4 @@
-# important commands
+# 💥 important commands
 
 ## <mark style="color:red;">WARNING!</mark> Not all of these commands will work on servers. Some servers are using different plugins !
 

@@ -4,7 +4,7 @@ description: >-
   server on Counter-Strike. Let me show you.
 ---
 
-# How to join a bhop server
+# 🎄 How to join a bhop server
 
 
 

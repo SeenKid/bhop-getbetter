@@ -30,6 +30,10 @@
 
 * [💟 Useful resources](resources/useful-resources.md)
 
+## ⏲ Binding
+
+* [💎 Useful binds](binding/useful-binds.md)
+
 ## 📄 Sources Used
 
 * [📜 Links I used to make this guide](sources-used/links-i-used-to-make-this-guide.md)

@@ -1,17 +1,30 @@
 # Table of contents
 
-## Group 1
+## 🌻 Introduction
 
-* [Page 1](README.md)
+* [➡ Introduction](README.md)
 
-## Group 2
+## 🐇 How to BunnyHop
 
-* [Page 2](group-2/page-2.md)
+* [⁉ What is bunnyhop](how-to-bunnyhop/what-is-bunnyhop.md)
+* [🔧 How does it works ?](how-to-bunnyhop/how-does-it-works.md)
 
-## Group 3
+## ☄ Joining a bhop server
 
-* [Page 3](group-3/page-3.md)
+* [How to join a bhop server](joining-a-bhop-server/how-to-join-a-bhop-server.md)
+* [ServerList](joining-a-bhop-server/serverlist.md)
 
-## Group 4
+## Useful commands
 
-* [Page 4](group-4/page-4.md)
+* [important commands](useful-commands/important-commands.md)
+* [useful commands](useful-commands/useful-commands.md)
+* [Other...](useful-commands/other....md)
+
+## improve your strafes
+
+* [Mechanic](improve-your-strafes/mechanic.md)
+* [Softwares](improve-your-strafes/softwares.md)
+
+## resources
+
+* [💟 Useful resources](resources/useful-resources.md)

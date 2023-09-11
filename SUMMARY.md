@@ -25,7 +25,7 @@
 ## improve your strafes
 
 * [Mechanic](improve-your-strafes/mechanic.md)
-* [Softwares](improve-your-strafes/softwares.md)
+* [Softwares / On-Computer tips](improve-your-strafes/softwares-on-computer-tips.md)
 
 ## resources
 

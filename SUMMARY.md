@@ -16,21 +16,21 @@
 * [📋 Whitelist Servers List](joining-a-bhop-server/whitelist-servers-list.md)
 * [🦜 Reduce lags on bhop servers](joining-a-bhop-server/reduce-lags-on-bhop-servers.md)
 
-## Useful commands
+## ⚙ Useful commands
 
 * [💥 important commands](useful-commands/important-commands.md)
 * [💢 useful commands](useful-commands/useful-commands.md)
 * [🧭 Other...](useful-commands/other....md)
 
-## improve your strafes
+## 🖱 improve your strafes
 
-* [Mechanic](improve-your-strafes/mechanic.md)
-* [Softwares / On-Computer tips](improve-your-strafes/softwares-on-computer-tips.md)
+* [⌨ Mechanic](improve-your-strafes/mechanic.md)
+* [🖥 Softwares / On-Computer tips](improve-your-strafes/softwares-on-computer-tips.md)
 
-## resources
+## 💯 resources
 
 * [💟 Useful resources](resources/useful-resources.md)
 
-## Sources Used
+## 📄 Sources Used
 
-* [Links I used to make this guide](sources-used/links-i-used-to-make-this-guide.md)
+* [📜 Links I used to make this guide](sources-used/links-i-used-to-make-this-guide.md)

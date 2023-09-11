@@ -12,7 +12,8 @@
 ## ☄ Joining a bhop server
 
 * [How to join a bhop server](joining-a-bhop-server/how-to-join-a-bhop-server.md)
-* [ServerList](joining-a-bhop-server/serverlist.md)
+* [Public Servers List](joining-a-bhop-server/public-servers-list.md)
+* [Whitelist Servers List](joining-a-bhop-server/whitelist-servers-list.md)
 
 ## Useful commands
 

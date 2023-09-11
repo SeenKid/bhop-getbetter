@@ -6,8 +6,7 @@
 
 ## 🐇 How to BunnyHop
 
-* [⁉ What is bunnyhop](how-to-bunnyhop/what-is-bunnyhop.md)
-* [🔧 How does it works ?](how-to-bunnyhop/how-does-it-works.md)
+* [⁉ What is "bunnyhop" ?](how-to-bunnyhop/what-is-bunnyhop.md)
 
 ## ☄ Joining a bhop server
 

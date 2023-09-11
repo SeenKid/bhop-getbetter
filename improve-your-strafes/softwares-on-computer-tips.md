@@ -4,7 +4,7 @@ description: >-
   saturn.
 ---
 
-# Softwares / On-Computer tips
+# 🖥 Softwares / On-Computer tips
 
 Smooths mouse movement over multiple frames. This is the most important program to maximize your gain potential : [**RawInput2.exe**](https://cdn.discordapp.com/attachments/1125989208985702450/1125991462430048256/RawInput2.exe)
 

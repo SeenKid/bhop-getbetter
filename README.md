@@ -1,3 +1,9 @@
+---
+description: >-
+  This tutorial is brought to you by SeenKid. This Tutorial is based on existing
+  tutorials and personal experience.
+---
+
 # ➡ Introduction
 
 ## Hello and welcome on this tutorial.

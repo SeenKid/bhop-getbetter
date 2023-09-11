@@ -28,3 +28,7 @@
 ## resources
 
 * [💟 Useful resources](resources/useful-resources.md)
+
+## Sources Used
+
+* [Links I used to make this guide](sources-used/links-i-used-to-make-this-guide.md)
